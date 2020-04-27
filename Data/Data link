@@ -2,3 +2,6 @@ For this project, dataset used is obtained from Julian McAuley’s Amazon Produc
 The link for all Amazon Prodcts reviews is: http://jmcauley.ucsd.edu/data/amazon/
 This project uses a subset from Amazon Product Reviews dataset and subset contains reviews for Toys and Games category products only. 
 This subset data is available at link: http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Toys_and_Games_5.json.gz
+
+The downloaded the JSON file from this link is used for step 1 of the code.
+From step 2 onwards, CSV file obtained by conversion from step 1 is used.
