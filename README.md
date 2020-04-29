@@ -23,3 +23,4 @@ To run this project, follow these:
     e. SemanticScore_Flesch_Index
     f. SemanticScore_Polarity
     g. SemanticScore_Entropy
+    
