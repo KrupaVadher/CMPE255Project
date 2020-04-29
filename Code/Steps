@@ -3,3 +3,7 @@ This code follows step by step execution as below:
   2. Data Visualization
   3. Preprocessing
   4. Semantic Scores Calculation
+     4.1 SemanticScore_Subjectivity 
+     4.2 SemanticScore_Flesch_Index 
+     4.3 SemanticScore_Polarity 
+     4.4 SemanticScore_Entropy
