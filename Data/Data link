@@ -5,3 +5,4 @@ This subset data is available at link: http://snap.stanford.edu/data/amazon/prod
 
 The downloaded the JSON file from this link is used for step 1 of the code.
 From step 2 onwards, CSV file obtained by conversion from step 1 is used.
+For the reference purpose, CSV file is provided in this folder as 'Toys_and_Games.csv'.
