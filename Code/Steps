@@ -7,3 +7,5 @@ This code follows step by step execution as below:
      4.2 SemanticScore_Flesch_Index 
      4.3 SemanticScore_Polarity 
      4.4 SemanticScore_Entropy
+     4.5 SemanticScore_DaleChall_Index	
+     4.6 SemanticScore_Helpful_ratio
