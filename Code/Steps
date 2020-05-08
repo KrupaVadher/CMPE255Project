@@ -1,11 +1,20 @@
-This code follows step by step execution as below:
+This project follows step by step execution as below:
   1. Data Conversion
   2. Data Visualization
   3. Preprocessing
-  4. Semantic Scores Calculation
+  4. Calculation of Semantic Scores
      4.1 SemanticScore_Subjectivity 
      4.2 SemanticScore_Flesch_Index 
      4.3 SemanticScore_Polarity 
      4.4 SemanticScore_Entropy
      4.5 SemanticScore_DaleChall_Index	
      4.6 SemanticScore_Helpful_ratio
+  5. Visualization and Analysis of Semantic Scores
+     5.1 Visualize_Score_Subjectivity
+     5.2 Visualize_Score_Flesch_index
+     5.3 Visualize_Score_polarity
+     5.4 Visualize_Score_entropy
+  6. Normalization of Semantic Scores
+     6.1 Normalization_Subjectivity
+     6.2 Normalization_Flesch_Index
+      
