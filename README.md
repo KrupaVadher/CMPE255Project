@@ -28,3 +28,5 @@ To run this project, follow these:
  4. Run all source codes(in sub-folder 'Semantic scores analysis') in the sequence given below:
     a. Visualize_Score_Subjectivity
     b. Visualize_Score_Flesch_index
+    c. Visualize_Score_Polarity
+    d. Visualize_Score_Entropy
