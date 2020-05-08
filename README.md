@@ -16,17 +16,20 @@ To run this project, follow these:
 1. Download and unzip the json file from link given above.
 2. Keep json file and all source codes in one folder on Google Colab or Jupyter notebook
 3. Run all source codes(in folder 'code') in the sequence given below:
-    a. DataConversion
-    b. DataVisualization
-    c. Pre-processing
-    d. SemanticScore_Subjectivity
-    e. SemanticScore_Flesch_Index
-    f. SemanticScore_Polarity
-    g. SemanticScore_Entropy
-    h. SemanticScore_DaleChall_Index	
-    i. SemanticScore_Helpful_ratio
+    a. DataConversion.ipynb
+    b. DataVisualization.ipynb
+    c. Pre-processing.ipynb
+    d. SemanticScore_Subjectivity.ipynb
+    e. SemanticScore_Flesch_Index.ipynb
+    f. SemanticScore_Polarity.ipynb
+    g. SemanticScore_Entropy.ipynb
+    h. SemanticScore_DaleChall_Index.ipynb	
+    i. SemanticScore_Helpful_ratio.ipynb
  4. Run all source codes(in sub-folder 'Semantic scores analysis') in the sequence given below:
-    a. Visualize_Score_Subjectivity
-    b. Visualize_Score_Flesch_index
-    c. Visualize_Score_Polarity
-    d. Visualize_Score_Entropy
+    a. Visualize_Score_Subjectivity.ipynb
+    b. Visualize_Score_Flesch_index.ipynb
+    c. Visualize_Score_Polarity.ipynb
+    d. Visualize_Score_Entropy.ipynb
+ 5. Run all source codes(in folder 'Code') in the sequence given below:
+    a. Normalization_Subjectivity.ipynb
+    b. Normalization_Flesch_Index.ipynb
