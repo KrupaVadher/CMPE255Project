@@ -17,4 +17,5 @@ This project follows step by step execution as below:
   6. Normalization of Semantic Scores
      6.1 Normalization_Subjectivity
      6.2 Normalization_Flesch_Index
-      
+     6.3 Normalization_Polarity
+     6.4 Normalization_Entropy
