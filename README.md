@@ -33,3 +33,5 @@ To run this project, follow these:
  5. Run all source codes(in folder 'Code') in the sequence given below:
     a. Normalization_Subjectivity.ipynb
     b. Normalization_Flesch_Index.ipynb
+    c. Normalization_Polarity.ipynb
+    d. Normalization_Entropy.ipynb
