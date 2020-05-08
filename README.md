@@ -15,7 +15,7 @@ From step 'b' onwards, CSV file obtained by conversion from step 'a' is used.
 To run this project, follow these:
 1. Download and unzip the json file from link given above.
 2. Keep json file and all source codes in one folder on Google Colab or Jupyter notebook
-3. Run all source codes in the sequence given below:
+3. Run all source codes(in folder 'code') in the sequence given below:
     a. DataConversion
     b. DataVisualization
     c. Pre-processing
@@ -25,4 +25,6 @@ To run this project, follow these:
     g. SemanticScore_Entropy
     h. SemanticScore_DaleChall_Index	
     i. SemanticScore_Helpful_ratio
-    
+ 4. Run all source codes(in sub-folder 'Semantic scores analysis') in the sequence given below:
+    a. Visualize_Score_Subjectivity
+    b. Visualize_Score_Flesch_index
