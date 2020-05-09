@@ -1,0 +1,7 @@
+This folder contains files for analyzing semantic scores using different visualization techniques.
+This will help in understanding the relationship between each semantic score of the review and rating of the review.
+Here, steps performed are as:
+  1. Visualize and analyze subjectivity score (Visualize_Score_Subjectivity.ipynb)
+  2. Visualize and analyze flesch index (Visualize_Score_Flesch_index.ipynb)
+  3. Visualize and analyze polarity (Visualize_Score_polarity.ipynb)
+  4. Visualize and analyze entropy (Visualize_Score_entropy.ipynb)
