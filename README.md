@@ -30,6 +30,8 @@ To run this project, follow these:
     b. Visualize_Score_Flesch_index.ipynb
     c. Visualize_Score_Polarity.ipynb
     d. Visualize_Score_Entropy.ipynb
+    e. Visualize_Score_Dale_Chall_Index.ipynb
+    f. Visualize_Score_Helpful_ratio.ipynb
  5. Run all source codes(in folder 'Code') in the sequence given below:
     a. Normalization_Subjectivity.ipynb
     b. Normalization_Flesch_Index.ipynb
