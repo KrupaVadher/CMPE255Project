@@ -37,3 +37,6 @@ To run this project, follow these:
     b. Normalization_Flesch_Index.ipynb
     c. Normalization_Polarity.ipynb
     d. Normalization_Entropy.ipynb
+    e. Normalization_Dale_Chall_Index.ipynb
+    f. Normalization_Helpful_ratio.ipynb
+    g. Normalization_LexDiversity.ipynb
