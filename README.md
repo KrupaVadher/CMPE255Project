@@ -9,7 +9,7 @@ This project uses a subset from Amazon Product Reviews dataset and subset contai
 This subset data is available at link: http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Toys_and_Games_5.json.gz
 
 The JSON file is obtained by downloading from this link and unzipped version is used for step 'a' of the code (data conversion from json to csv).
-From step 'b' onwards, CSV file obtained by conversion from step 'a' is used.
+From step 'b' onwards, CSV file obtained by conversion from step 'a' is used. For reference, the csv file is provided in the Data folder of this repository.
 
 
 To run this project, follow these:
