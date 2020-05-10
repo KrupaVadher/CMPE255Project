@@ -5,3 +5,5 @@ Here, steps performed are as:
   2. Visualize and analyze flesch index (Visualize_Score_Flesch_index.ipynb)
   3. Visualize and analyze polarity (Visualize_Score_polarity.ipynb)
   4. Visualize and analyze entropy (Visualize_Score_entropy.ipynb)
+  5. Visualize and analyze Dale Chall Index (Visualize_Score_Dale_Chall_Index.ipynb)	
+  6. Visualize and analyze Helpful Ratio (Visualize_Score_Helpful_ratio.ipynb)
