@@ -14,8 +14,13 @@ This project follows step by step execution as below:
      5.2 Visualize_Score_Flesch_index
      5.3 Visualize_Score_polarity
      5.4 Visualize_Score_entropy
+     5.5 Visualize_Score_Dale_Chall_Index
+     5.6 Visualize_Score_Helpful_ratio
   6. Normalization of Semantic Scores
      6.1 Normalization_Subjectivity
      6.2 Normalization_Flesch_Index
      6.3 Normalization_Polarity
      6.4 Normalization_Entropy
+     6.5 Normalization_Dale_Chall_index
+     6.6 Normalization_Helpful_Ratio
+     6.7 Normalization_LexDiversity
