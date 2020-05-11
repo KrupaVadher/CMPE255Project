@@ -25,6 +25,7 @@ To run this project, follow these:
     g. SemanticScore_Entropy.ipynb
     h. SemanticScore_DaleChall_Index.ipynb	
     i. SemanticScore_Helpful_ratio.ipynb
+    j. SemanticScore_LexDiversityRatio.ipynb
  4. Run all source codes(in sub-folder 'Semantic scores analysis') in the sequence given below:
     a. Visualize_Score_Subjectivity.ipynb
     b. Visualize_Score_Flesch_index.ipynb
@@ -32,6 +33,7 @@ To run this project, follow these:
     d. Visualize_Score_Entropy.ipynb
     e. Visualize_Score_Dale_Chall_Index.ipynb
     f. Visualize_Score_Helpful_ratio.ipynb
+    g. Visualize_LexDiversity.ipynb
  5. Run all source codes(in folder 'Code') in the sequence given below:
     a. Normalization_Subjectivity.ipynb
     b. Normalization_Flesch_Index.ipynb
@@ -40,3 +42,6 @@ To run this project, follow these:
     e. Normalization_Dale_Chall_Index.ipynb
     f. Normalization_Helpful_ratio.ipynb
     g. Normalization_LexDiversity.ipynb
+ 6. Run these source codes(in folder 'Code' and in sub-folder 'Semantic scores analysis') in the sequence given below:
+    a. Final_Score_Usability.ipynb
+    b. Visualize_Score_Usability.ipynb
