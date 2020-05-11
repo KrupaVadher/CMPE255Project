@@ -7,3 +7,5 @@ Here, steps performed are as:
   4. Visualize and analyze entropy (Visualize_Score_entropy.ipynb)
   5. Visualize and analyze Dale Chall Index (Visualize_Score_Dale_Chall_Index.ipynb)	
   6. Visualize and analyze Helpful Ratio (Visualize_Score_Helpful_ratio.ipynb)
+  7. Visualize and analyze Lex diversity (Visualize_LexDiversity.ipynb)
+  8. Visualize and analyze Usability score (Visualize_Score_Usability.ipynb)
