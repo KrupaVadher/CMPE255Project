@@ -9,6 +9,7 @@ This project follows step by step execution as below:
      4.4 SemanticScore_Entropy
      4.5 SemanticScore_DaleChall_Index	
      4.6 SemanticScore_Helpful_ratio
+     4.7 SemanticScore_LexDiversityRatio
   5. Visualization and Analysis of Semantic Scores
      5.1 Visualize_Score_Subjectivity
      5.2 Visualize_Score_Flesch_index
@@ -16,6 +17,7 @@ This project follows step by step execution as below:
      5.4 Visualize_Score_entropy
      5.5 Visualize_Score_Dale_Chall_Index
      5.6 Visualize_Score_Helpful_ratio
+     5.7 Visualize_LexDiversity
   6. Normalization of Semantic Scores
      6.1 Normalization_Subjectivity
      6.2 Normalization_Flesch_Index
