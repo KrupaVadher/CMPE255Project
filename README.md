@@ -1,4 +1,4 @@
-# CMPE255-Project
+# Semantic Score Calculation using Product Reviews
 This project focuses on estimating and analyzing the usability scores of the product reviews.
 The usability score will be calculated based on different semantic scores like: Subjectivity, Polarity, Flesch index, entropy, Dale Chall index, Lex diversity, etc.
 
